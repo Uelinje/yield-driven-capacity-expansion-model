@@ -1,4 +1,4 @@
-# yield-driven-capacity-expansion-model
+
 # Yield-Driven Capacity Expansion Model  
 ## 9.96 GW → 15.14 GW Without Additional Pullers
 
