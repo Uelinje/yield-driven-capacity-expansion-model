@@ -47,11 +47,11 @@ Capacity modeled as a function of:
 
 ### 3D Capacity Surface
 
-![Capacity Surface]![Capacity Surface](images/capacity_surface.png)
+![Capacity Surface]![Capacity Surface](capacity_surface.png)
 
 ### Capacity Contour Map
 
-![Capacity Contour]![Capacity Contour](images/contour_plot.png)
+![Capacity Contour]![Capacity Contour](contour_plot.png)
 
 Findings:
 - Wafer thickness reduction is a nonlinear amplification lever.
@@ -70,7 +70,7 @@ Uncertainty modeled in:
 
 ### Monte Carlo Distribution
 
-![Monte Carlo Distribution]![Monte Carlo Distribution](images/monte_carlo_distribution.png)
+![Monte Carlo Distribution]![Monte Carlo Distribution](monte_carlo_distribution.png)
 
 ### Results
 
